@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "bill_type": "electricity",
+      "icon": "https://i.ibb.co.com/9X0cHk6/download1.jpg",
+      "image":"https://i.ibb.co.com/xqsL92ZS/images-1.png",
+      "organization": "DESCO",
+      "amount": 1890,
+      "duedate": "2025-05-22T06:57:58.110Z"
+    },
+    {
+      "id": 2,
+      "bill_type": "gas",
+      "icon": "https://i.ibb.co.com/HLtKWR3r/2024-08-07-07-45-3812f069b774feb34d59e4307d627902.jpg",
+      "image":"https://i.ibb.co.com/VYcbzVht/download-4.jpg",
+      "organization": "Tista",
+      "amount": 1488,
+      "duedate": "2025-05-28T06:57:58.110Z"
+    },
+    {
+      "id": 3,
+      "bill_type": "water",
+      "icon": "https://i.ibb.co.com/m54mJfyG/rsz-final-pic.jpg",
+      "image":"https://i.ibb.co.com/fY4SFK70/dwasa.png",
+      "organization": "WASA",
+      "amount": 620,
+      "duedate": "2025-05-15T10:30:00.000Z"
+    },
+    {
+      "id": 4,
+      "bill_type": "internet",
+      "icon": "https://i.ibb.co.com/hxLmnVcC/1745337048-9098736.jpg",
+      "image":"https://i.ibb.co.com/XrvX7k0D/download-1.png",
+      "organization": "Link3",
+      "amount": 1200,
+      "duedate": "2025-05-10T12:00:00.000Z"
+    },
+    {
+      "id": 5,
+      "bill_type": "credit card bill",
+      "icon": "https://i.ibb.co.com/0jWstPMt/offshore1.jpg",
+      "image": "https://i.ibb.co.com/sv9QQZLJ/download-5.jpg",
+      "organization": "DBBL",
+      "amount": 3500,
+      "duedate": "2025-05-15T08:00:00.000Z"
+    },
+    {
+      "id": 6,
+      "bill_type": "tuition",
+      "icon": "https://i.ibb.co.com/JF0MPz3B/download.jpg",
+      "image":"https://i.ibb.co.com/k6g1J5Mj/download-3.jpg",
+      "organization": "Dhaka University",
+      "amount": 1500,
+      "duedate": "2025-05-05T07:45:00.000Z"
+    },
+    {
+      "id": 7,
+      "bill_type": "electricity",
+      "icon": "https://i.ibb.co.com/TxCy0fdg/download-1.jpg",
+      "image":"https://i.ibb.co.com/7xjpXMbh/images.png",
+      "organization": "PDB",
+      "amount": 2120,
+      "duedate": "2025-05-06T09:15:00.000Z"
+    },
+    {
+      "id": 8,
+      "bill_type": "gas",
+      "icon": "https://i.ibb.co.com/8D7Kp70v/4b42769a39e72816fd7eb197a4ce893c.jpg",
+      "image":"https://i.ibb.co.com/v6yQppwX/download.png",
+      "organization": "Bakhrabad Gas",
+      "amount": 1600,
+      "duedate": "2025-05-30T11:00:00.000Z"
+    }
+  ]
+  
