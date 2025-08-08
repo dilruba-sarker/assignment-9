@@ -76,10 +76,10 @@ Client:
 cd client
 npm run dev
 ---
-## 📞 Contact
 
-For any issues or suggestions, please reach out via the project repository or message the instructor directly.
 
----
+
+
+
 
 > Made with ❤️ for Assignment 09
